@@ -1,0 +1,2 @@
+# Sweetviz
+Quick Detailed EDA
